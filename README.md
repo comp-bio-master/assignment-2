@@ -12,13 +12,11 @@ Confirm that your terminal, Git, and the `~/CSB` repository work before continui
 
 ## Description of Assignment
 
-1. Reading: [Wilson_et_al_2014_Best_practices_for_sci_comp](../literature/Wilson_et_al_2014_Best_practices_for_sci_comp.pdf)
+1. Reading: [Wilson_et_al_2014_Best_practices_for_sci_comp](https://github.com/tamucc-comp-bio/classroom_repo_2026/blob/main/literature/Wilson_et_al_2014_Best_practices_for_sci_comp.pdf) and then answer [these questions about the manuscript](https://forms.cloud.microsoft/r/MRSHMqyzLA)
 
-2. Complete [Mind Expander 01.04](https://forms.office.com/r/uvi6cGMSMJ)
+2. In your [lecture-2 repo](https://classroom50.org/tamucc-comp-bio-assignments/comp-bio-skills-2026/assignments/lecture-2/accept), complete [Mind Expander 01.04](https://forms.office.com/r/uvi6cGMSMJ)
 
-3. *OPTIONAL*: In Software Carpentry, complete The [Unix Shell Sections 5-6](https://swcarpentry.github.io/shell-novice/)
-
-4. Work through *Computer Programming with `bash` (CSB 1.7-1.9) in [Lecture_02](../lectures/lecture02.md)
+3. In your [lecture-2 repo](https://classroom50.org/tamucc-comp-bio-assignments/comp-bio-skills-2026/assignments/lecture-2/accept), Work through *Computer Programming with `bash` (CSB 1.7-1.9) in [Lecture_02](../lectures/lecture02.md)
 
 <details><summary>5. Complete exercises 1.10.2 and 1.10.3</summary>
 <p>
