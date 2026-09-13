@@ -33,66 +33,68 @@ sudo apt upgrade
 
 3. In your [lecture-2 repo](https://classroom50.org/tamucc-comp-bio-assignments/comp-bio-skills-2026/assignments/lecture-2/accept), Work through *Computer Programming with `bash` (CSB 1.7-1.9) in [Lecture_02](../lectures/lecture02.md)
 
-<details><summary>4. Clone this repo to your local computer.</summary>
+<details><summary>4. Clone this assignment-2 repo to your local computer.</summary>
 <p>
 
-On the GitHub webpage for **your Assignment 1 repository**:
+	On the GitHub webpage for **your Assignment 2 repository**:
 
-1. Click the green **Code** button.
-2. Select **SSH**.
-3. Copy the SSH address.
+	1. Click the green **Code** button.
+	2. Select **SSH**.
+	3. Copy the SSH address.
 
-In your terminal, go to your home directory:
+	In your terminal, go to your home directory:
 
-```bash
-cd ~
-```
+	```bash
+	cd ~
+	```
 
-Clone your repository, giving the local clone the name `assignment-1`:
+	Clone your repository, giving the local clone the name `assignment-2`:
 
-```text
-git clone YOUR-COPIED-SSH-ADDRESS assignment-1
-```
+	```text
+	git clone YOUR-COPIED-SSH-ADDRESS assignment-2
+	```
 
-Enter the repository:
+	Enter the repository:
 
-```bash
-cd assignment-1
-```
+	```bash
+	cd assignment-2
+	```
 
-Check your location:
+	Check your location:
 
-```bash
-pwd
-```
+	```bash
+	pwd
+	```
 
-Your path should end with:
+	Your path should end with:
 
-```text
-/assignment-1
-```
+	```text
+	/assignment-2
+	```
 
-List the contents:
+	List the contents:
 
-```bash
-ls
-```
+	```bash
+	ls
+	```
 
-You should see at least:
+	You should see at least:
 
-```text
-README.md
-CSB
-```
+	```text
+	README.md
+	CSB
+	```
+
+--- 
 
 </p>
 </details>
 
 
-<details><summary>5. Complete exercises 1.10.2 and 1.10.3</summary>
+<details><summary>5. Use your assignment-2 repo to complete exercises 1.10.2 and 1.10.3</summary>
 <p>
 
-Then, complete the exercise(s) below by answering the question(s) in the online form and submitting.  You must be logged into your TAMUCC email account to have your identity attached to your answers. 
+Complete the exercise(s) below by answering the question(s) in the online form and submitting.  You must be logged into your TAMUCC email account to have your identity attached to your answers. 
 
 You may work in groups, but each person must fill out the online answer form.
 
