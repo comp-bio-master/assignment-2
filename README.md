@@ -4,9 +4,24 @@
 
 ## Computer Preparation
 
-Before class, complete the [Computer Setup Checklist](../resources/computer_setup_checklist.md).
+Complete the [Computer Setup Checklist](../resources/computer_setup_checklist.md) which should have already been completed in the first lecture.
 
-Confirm that your terminal, Git, and the `~/CSB` repository work before continuing.
+<details><summary>If you have Ubuntu, run the following commands:</summary>
+<p>
+
+
+```bash
+sudo apt update
+```
+
+and then
+
+```bash
+sudo apt upgrade
+```
+
+</p>
+</details>
 
 ---
 
@@ -17,6 +32,62 @@ Confirm that your terminal, Git, and the `~/CSB` repository work before continui
 2. In your [lecture-2 repo](https://classroom50.org/tamucc-comp-bio-assignments/comp-bio-skills-2026/assignments/lecture-2/accept), complete [Mind Expander 01.04](https://forms.office.com/r/uvi6cGMSMJ)
 
 3. In your [lecture-2 repo](https://classroom50.org/tamucc-comp-bio-assignments/comp-bio-skills-2026/assignments/lecture-2/accept), Work through *Computer Programming with `bash` (CSB 1.7-1.9) in [Lecture_02](../lectures/lecture02.md)
+
+<details><summary>4. Clone this repo to your local computer.</summary>
+<p>
+
+On the GitHub webpage for **your Assignment 1 repository**:
+
+1. Click the green **Code** button.
+2. Select **SSH**.
+3. Copy the SSH address.
+
+In your terminal, go to your home directory:
+
+```bash
+cd ~
+```
+
+Clone your repository, giving the local clone the name `assignment-1`:
+
+```text
+git clone YOUR-COPIED-SSH-ADDRESS assignment-1
+```
+
+Enter the repository:
+
+```bash
+cd assignment-1
+```
+
+Check your location:
+
+```bash
+pwd
+```
+
+Your path should end with:
+
+```text
+/assignment-1
+```
+
+List the contents:
+
+```bash
+ls
+```
+
+You should see at least:
+
+```text
+README.md
+CSB
+```
+
+</p>
+</details>
+
 
 <details><summary>5. Complete exercises 1.10.2 and 1.10.3</summary>
 <p>
