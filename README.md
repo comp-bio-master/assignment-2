@@ -36,54 +36,54 @@ sudo apt upgrade
 <details><summary>4. Clone this assignment-2 repo to your local computer.</summary>
 <p>
 
-	On the GitHub webpage for **your Assignment 2 repository**:
+On the GitHub webpage for **your Assignment 2 repository**:
 
-	1. Click the green **Code** button.
-	2. Select **SSH**.
-	3. Copy the SSH address.
+1. Click the green **Code** button.
+2. Select **SSH**.
+3. Copy the SSH address.
 
-	In your terminal, go to your home directory:
+In your terminal, go to your home directory:
 
-	```bash
-	cd ~
-	```
+```bash
+cd ~
+```
 
-	Clone your repository, giving the local clone the name `assignment-2`:
+Clone your repository, giving the local clone the name `assignment-2`:
 
-	```text
-	git clone YOUR-COPIED-SSH-ADDRESS assignment-2
-	```
+```text
+git clone YOUR-COPIED-SSH-ADDRESS assignment-2
+```
 
-	Enter the repository:
+Enter the repository:
 
-	```bash
-	cd assignment-2
-	```
+```bash
+cd assignment-2
+```
 
-	Check your location:
+Check your location:
 
-	```bash
-	pwd
-	```
+```bash
+pwd
+```
 
-	Your path should end with:
+Your path should end with:
 
-	```text
-	/assignment-2
-	```
+```text
+/assignment-2
+```
 
-	List the contents:
+List the contents:
 
-	```bash
-	ls
-	```
+```bash
+ls
+```
 
-	You should see at least:
+You should see at least:
 
-	```text
-	README.md
-	CSB
-	```
+```text
+README.md
+CSB
+```
 
 --- 
 
